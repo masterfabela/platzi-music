@@ -17,4 +17,13 @@
         <item name="android:textSize">16sp</item>
         <item name="android:drawablePadding">12dp</item>
     </style>
+    <style name="Theme.PlatziMusic.Red" parent="Theme.PlatziMusic">
+        <item name="android:background">#FFFF0000</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+    <style name="Theme.PlatziMusic.Green" parent="Theme.PlatziMusic">
+        <item name="android:textColor">@color/colorPrimaryDark</item>
+        <item name="android:background">FFFF0000</item>
+    </style>
 </resources>
